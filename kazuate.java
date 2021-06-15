@@ -9,7 +9,7 @@ class kazuate {
         int num = rand.nextInt(90) + 10;
         int count = 0;
 
-        /*-------------main loop---------------*/
+        /*-------------Main Loop---------------*/
         while (true) {
             count = count + 1;
             Scanner scanner = new Scanner(System.in);
