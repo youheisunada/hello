@@ -4,9 +4,9 @@ import java.util.InputMismatchException;
 
 class kazuate {
     public static void main(String[] args) {
-        System.out.println("Kazuate Game 10 - 99");
+        System.out.println("Kazuate Game 0 - 99");
         Random rand = new Random();
-        int num = rand.nextInt(90) + 10;
+        int num = rand.nextInt(100);
         int count = 0;
 
         /*-------------main loop---------------*/
